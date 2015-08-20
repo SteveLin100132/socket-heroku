@@ -1,0 +1,25 @@
+{
+  "name": "heroku-socket",
+  "version": "0.1.4",
+  "description": "A sample Node.js app using websocket",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "~0.7.x"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SteveLin100132/socket-heroku.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "ws"
+  ],
+  "license": "MIT"
+}
