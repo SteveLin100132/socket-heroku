@@ -1,0 +1,7 @@
+{
+  "name": "Node.js Getting Started",
+  "description": "A barebones Node.js app using websocket",
+  "repository": "https://github.com/SteveLin100132/socket-heroku.git",
+  "keywords": ["node", "ws"],
+  "image": "heroku/nodejs"
+}
